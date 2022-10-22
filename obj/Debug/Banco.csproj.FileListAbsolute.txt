@@ -1,0 +1,6 @@
+C:\Users\Yonatan\OneDrive\Desktop\UNI, Ing Informatica\Universidad_cuatri 1(agosto-diciembre 2022)2 año\Algoritmos y Programacion\Proyecto_integrador\Banco\Banco\obj\Debug\Banco.csprojResolveAssemblyReference.cache
+C:\Users\Yonatan\OneDrive\Desktop\UNI, Ing Informatica\Universidad_cuatri 1(agosto-diciembre 2022)2 año\Algoritmos y Programacion\Proyecto_integrador\Banco\Banco\bin\Debug\Banco.exe.config
+C:\Users\Yonatan\OneDrive\Desktop\UNI, Ing Informatica\Universidad_cuatri 1(agosto-diciembre 2022)2 año\Algoritmos y Programacion\Proyecto_integrador\Banco\Banco\bin\Debug\Banco.exe
+C:\Users\Yonatan\OneDrive\Desktop\UNI, Ing Informatica\Universidad_cuatri 1(agosto-diciembre 2022)2 año\Algoritmos y Programacion\Proyecto_integrador\Banco\Banco\bin\Debug\Banco.pdb
+C:\Users\Yonatan\OneDrive\Desktop\UNI, Ing Informatica\Universidad_cuatri 1(agosto-diciembre 2022)2 año\Algoritmos y Programacion\Proyecto_integrador\Banco\Banco\obj\Debug\Banco.exe
+C:\Users\Yonatan\OneDrive\Desktop\UNI, Ing Informatica\Universidad_cuatri 1(agosto-diciembre 2022)2 año\Algoritmos y Programacion\Proyecto_integrador\Banco\Banco\obj\Debug\Banco.pdb
